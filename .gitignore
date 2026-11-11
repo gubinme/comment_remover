@@ -1,0 +1,1 @@
+﻿# Auto .gitignore__pycache__/ *.py[cod] .venv/ venv/ .env dist/ build/ *.egg-info/
